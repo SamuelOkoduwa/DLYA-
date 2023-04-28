@@ -1,0 +1,41 @@
+body{
+    background-color: #ffffff;
+    margin: 0%;
+    padding: 20px;
+}
+nav{
+    display: flex;
+    padding: 20px;
+    justify-content: space-between;
+}
+.nav-menu span{
+    justify-content: space-around;
+    padding: 20px;
+    font-weight: lighter;
+    color: rgb(135,134,135);
+
+}
+main{
+    display: flex;
+    padding: 20px;
+    justify-content: space-between;
+}
+
+button{
+    color: #ffffff;
+    background-color: #ea8236;
+    padding: 15px;
+    border: none;
+    border-radius: 20px;
+}
+section{
+    padding: 20px;
+}
+.section-block{
+    display: flex;
+    justify-content: space-around;
+}
+h3{
+    color: rgb(134,132,134);
+    font-weight: bold;
+}
